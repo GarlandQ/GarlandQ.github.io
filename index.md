@@ -1,10 +1,10 @@
-# About Me
+# ***About Me***
 
 City College of New York graduate with a B.S. in Computer Science.
 
 I'm currently interested in working in the IT Field and working towards my Network+ certification at the moment.
 
-# Skills
+# ***Skills***
 
 ***Programming Languages***: Python, C/C++, JavaScript, PostgreSQL
 
@@ -31,13 +31,55 @@ I'm currently interested in working in the IT Field and working towards my Netwo
 ![VS](https://img.icons8.com/color/48/000000/visual-studio--v1.png)
 ![VSC](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
-# Projects and Coursework
+# ***Projects and Coursework***
 
 ***Senior Design Course Project***: Crypto Slot Machine that uses Ethereum blockchain on Kovan Test Network.
+- Worked as a group using Solidity, Web3JS, React, JavaScript, HTML, and CSS to create a slot machine game using cryptocurrency as its transactions.
+- Used Solidity to create and test smart contracts that handles transactions within the application.
+- Implemented hashing methods through the smart contract and the front-end to ensure secure transactions throughout the application.
 
 [![GitHub](https://img.icons8.com/material-rounded/48/000000/github.png)](https://github.com/GarlandQ/Slot-Machine-Crypto)
 
+<hr style="border:1px solid gray">
 
+***"Flicks By PIE"***: Movie/TV Show Database site to view details on upcoming and trending movies, and trending tv shows using TMDB 5000's dataset.
+- Implemented using Next.js, React, and JavaScript.
+
+[![Flicks](https://img.icons8.com/fluency/48/000000/movies-tv.png)](https://flicks-by-pie.herokuapp.com/)
+[![GitHub](https://img.icons8.com/material-rounded/48/000000/github.png)](https://github.com/GarlandQ/project-3-flicks-by-pie)
+
+<hr style="border:1px solid gray">
+
+***Data Science***: Rent Prediction Model for NYC Housing using NYPD Complaint Dataset, 311 Service Requests Dataset, and StreetEasy dataset.
+- Used numpy, pandas, scikit-learn, and matplotlib to assess and train the model.
+
+[![GitHub](https://img.icons8.com/material-rounded/48/000000/github.png)](https://github.com/CSC599-70-GIN/RentPrediction)
+
+<hr style="border:1px solid gray">
+
+***Operating Systems***: Collection of assignments and group project creating a shell clone with shell commands.
+- Using C for all the assignments and shell clone implementation.
+
+[![GitHub](https://img.icons8.com/material-rounded/48/000000/github.png)](https://github.com/GarlandQ/Operating-Systems-Spring-2020)
+
+<hr style="border:1px solid gray">
+
+***Discord Music Bot***: Simple music bot for Discord servers to play YouTube videos in a voice call using Python and Discord API.
+
+[![GitHub](https://img.icons8.com/material-rounded/48/000000/github.png)](https://github.com/GarlandQ/discord-robot)
+[![Discord](https://img.icons8.com/cute-clipart/48/000000/discord-new-logo.png)](https://discord.com/api/oauth2/authorize?client_id=385254106908065802&permissions=2184202240&scope=bot)
+(Connect this bot to your own Discord voice channels.)
+
+# ***Work Experience***
+![NIA](https://images.squarespace-cdn.com/content/5911e66159cc68a06bb6f7b1/1580924381466-42U01E3CKYRNOOE2ARC0/NIA+logo+main.png?format=5w)
+
+***Group Leader at I.S. 281 Joseph B. Cavallaro Middle School***
+
+**September 2016 – February 2020**
+- Assisted in teaching over 90 students everyday about STEM (Science, Technology, Engineering, Math) with activities ranging from basic coding to physics.
+- Assisted instructors and students in setting up and troubleshooting devices to continue their activities.
+- Offered general and product suggestions for instructors to use in future STEM activities which was later implemented into lesson plans.
+- Served as a translator between administrators, teachers, students, and parents.
 
 # Contact Me
 
