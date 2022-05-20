@@ -1,4 +1,4 @@
-# ***About Me***
+# ***About Me*** <a name="about"></a>
 
 City College of New York graduate with a B.S. in Computer Science.
 
@@ -38,40 +38,40 @@ I'm currently interested in working in the IT Field and working towards my Netwo
 - Used Solidity to create and test smart contracts that handles transactions within the application.
 - Implemented hashing methods through the smart contract and the front-end to ensure secure transactions throughout the application.
 
-[![GitHub](https://img.icons8.com/material-rounded/48/000000/github.png)](https://github.com/GarlandQ/Slot-Machine-Crypto)
+[![GitHub](https://img.icons8.com/material-rounded/48/000000/github.png)](https://github.com/GarlandQ/Slot-Machine-Crypto){:target="_blank"}
 
 <hr style="border:1px solid gray">
 
 ***"Flicks By PIE"***: Movie/TV Show Database site to view details on upcoming and trending movies, and trending tv shows using TMDB 5000's dataset.
 - Implemented using Next.js, React, and JavaScript.
 
-[![Flicks](https://img.icons8.com/fluency/48/000000/movies-tv.png)](https://flicks-by-pie.herokuapp.com/)
-[![GitHub](https://img.icons8.com/material-rounded/48/000000/github.png)](https://github.com/GarlandQ/project-3-flicks-by-pie)
+[![Flicks](https://img.icons8.com/fluency/48/000000/movies-tv.png)](https://flicks-by-pie.herokuapp.com/){:target="_blank"}
+[![GitHub](https://img.icons8.com/material-rounded/48/000000/github.png)](https://github.com/GarlandQ/project-3-flicks-by-pie){:target="_blank"}
 
 <hr style="border:1px solid gray">
 
 ***Data Science***: Rent Prediction Model for NYC Housing using NYPD Complaint Dataset, 311 Service Requests Dataset, and StreetEasy dataset.
 - Used numpy, pandas, scikit-learn, and matplotlib to assess and train the model.
 
-[![GitHub](https://img.icons8.com/material-rounded/48/000000/github.png)](https://github.com/CSC599-70-GIN/RentPrediction)
+[![GitHub](https://img.icons8.com/material-rounded/48/000000/github.png)](https://github.com/CSC599-70-GIN/RentPrediction){:target="_blank"}
 
 <hr style="border:1px solid gray">
 
 ***Operating Systems***: Collection of assignments and group project creating a shell clone with shell commands.
 - Using C for all the assignments and shell clone implementation.
 
-[![GitHub](https://img.icons8.com/material-rounded/48/000000/github.png)](https://github.com/GarlandQ/Operating-Systems-Spring-2020)
+[![GitHub](https://img.icons8.com/material-rounded/48/000000/github.png)](https://github.com/GarlandQ/Operating-Systems-Spring-2020){:target="_blank"}
 
 <hr style="border:1px solid gray">
 
 ***Discord Music Bot***: Simple music bot for Discord servers to play YouTube videos in a voice call using Python and Discord API.
 
-[![GitHub](https://img.icons8.com/material-rounded/48/000000/github.png)](https://github.com/GarlandQ/discord-robot)
-[![Discord](https://img.icons8.com/cute-clipart/48/000000/discord-new-logo.png)](https://discord.com/api/oauth2/authorize?client_id=385254106908065802&permissions=2184202240&scope=bot)
+[![GitHub](https://img.icons8.com/material-rounded/48/000000/github.png)](https://github.com/GarlandQ/discord-robot){:target="_blank"}
+[![Discord](https://img.icons8.com/cute-clipart/48/000000/discord-new-logo.png)](https://discord.com/api/oauth2/authorize?client_id=385254106908065802&permissions=2184202240&scope=bot){:target="_blank"}
 (Connect this bot to your own Discord voice channels.)
 
 # ***Work Experience***
-![NIA](https://images.squarespace-cdn.com/content/5911e66159cc68a06bb6f7b1/1580924381466-42U01E3CKYRNOOE2ARC0/NIA+logo+main.png?format=5w)
+[![NIA](https://images.squarespace-cdn.com/content/5911e66159cc68a06bb6f7b1/1580924381466-42U01E3CKYRNOOE2ARC0/NIA+logo+main.png?format=5w)](https://www.niabklyn.org/){:target="_blank"}
 
 ***Group Leader at I.S. 281 Joseph B. Cavallaro Middle School***
 
@@ -83,5 +83,5 @@ I'm currently interested in working in the IT Field and working towards my Netwo
 
 # Contact Me
 
-[![Mail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:garqiu@gmail.com)
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin-circled--v1.png)](https://www.linkedin.com/in/garland-qiu/)
+[![Mail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:garqiu@gmail.com){:target="_blank"}
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin-circled--v1.png)](https://www.linkedin.com/in/garland-qiu/){:target="_blank"}
