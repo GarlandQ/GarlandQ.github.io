@@ -2,9 +2,15 @@
 
 City College of New York graduate with a B.S. in Computer Science.
 
-I'm currently interested in working in the IT Field and working towards my Network+ certification at the moment.
+I'm currently interested in working in the IT Field.
 
-# ***Skills***
+# ***Skills / Certifications***
+
+***Certifications***
+
+**Network+ Certified**: June 2022
+
+[<img src="/resources/NetworkPlus-Logo-Certified-CE.png" alt="CompTIA" width="128" height="116.8"> ](https://www.credly.com/badges/2410df39-00a6-4ce0-890c-ce9c4a6d064e/public_url){:target="_blank"} 
 
 ***Programming Languages***: Python, C/C++, JavaScript, PostgreSQL
 
@@ -14,13 +20,12 @@ I'm currently interested in working in the IT Field and working towards my Netwo
 ![PSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
 
 
-***Operating Systems***: Windows 7/8.1/10, Linux (Ubuntu/ Kali Linux), Chrome OS, macOS, Android, iOS
+***Operating Systems***: Windows, Linux (Ubuntu/ Kali Linux), macOS, Android, iOS
 
 ![Windows](https://img.icons8.com/fluency/48/000000/windows-10.png)
 ![Linux](https://img.icons8.com/color/48/000000/linux--v1.png)
-![Chrome](https://img.icons8.com/color/48/000000/chrome--v1.png)
 ![macOS](https://img.icons8.com/ios-glyphs/48/000000/mac-client.png)
-![Android](https://img.icons8.com/dusk/48/000000/android.png)
+![Android](https://img.icons8.com/color/48/undefined/android-os.png)
 ![iOS](https://img.icons8.com/ios/48/000000/ios-logo.png)
 
 ***Applications***: Git Bash, GitHub, Microsoft Office, Visual Studio, Visual Studio Code
